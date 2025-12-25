@@ -1,5 +1,5 @@
 Hi there! 
-I'm Koushik, a remote software engineer and a bachelor student 
+I'm Koushik, a remote software engineer and a Bachelor student 
 
 I currently work as a software engineer at @Anthropic, where I help build and improve system level bidder ML models and API  that make Anthropic money . Previously, I was at @pengiun.
 
